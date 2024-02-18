@@ -1,2 +1,5 @@
-# mojo-as-a-web-framework
-# mojo-as-a-web-framework
+# Mojo as a web framework
+
+The idea is that it serves in:
+- [ ] Go
+- [ ] Rust
