@@ -1,8 +1,8 @@
 # Mojo HTTP Server and Client
 
 The idea is that it serves in:
+
 - [ ] Server
-- [ ] Client
 - [ ] HTTP request support
 - [ ] Config file support
 - [ ] Remove network dependencies (Do not depend on Python)
@@ -17,6 +17,8 @@ The idea is that it serves in:
 - [ ] Cookies support
 - [ ] Documentation
 
+Issues Template has taken from [github-issue-templates repo](https://github.com/stevemao/github-issue-templates), all credits to [Steve Mao](https://github.com/stevemao) and contributors.
+
 > [!NOTE]
 > Possibly the project dies before even achieving the first task.
 >
@@ -26,7 +28,7 @@ The idea is that it serves in:
 > If you have any ideas for the name of the project, it is welcome.
 
 > [!IMPORTANT]
-> If a miracle happens and the goal is achieved, you will not be given any future support, please note that Mojo is still in development and this, under the theory that it works, can stop working at any time \n
+> If a miracle happens and the goal is achieved, you will not be given any future support, please note that Mojo is still in development and this, under the theory that it works, can stop working at any time
 >
 > Do not trust me :)
 >
